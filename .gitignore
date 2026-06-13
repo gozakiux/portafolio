@@ -1,0 +1,8 @@
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Vistas previas temporales
+_preview-*.png
